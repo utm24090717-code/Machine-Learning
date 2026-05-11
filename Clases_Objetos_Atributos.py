@@ -5,6 +5,7 @@ crea un objeto.
 
 Dentro del constructor aparece self, que representa al objeto actual. 
 Gracias a self, cada objeto puede guardar sus propios datos. 
+
 Cuando escribes algo como “self.nombre”, estás creando un atributo que pertenece
 específicamente a ese objeto.'''
 
